@@ -17,7 +17,7 @@ These listed rules are to be followed strictly, without exception.
 * Use [Semantic versioning] for versing numbering and public API stability.
 * Write stability `ALPHA,BETA,RC` always in uppercase, and full (not a or b.)
 * Omit `STABLE` within the release name and version number.
-* Keep a changelog as described in [keepachangelog.com] 
+* Keep a changelog as described in [keepachangelog.com] - 
   (and see additional notes below).
 * Don't increase Platform requirements within minor/patch release,
   unless this requirement is widely available.
