@@ -101,7 +101,7 @@ A good release is planned, contains only that what was envisioned.
 And is delivered on time. Don't be afraid to reject features for the next
 release when they are not good enough yet.
 
-Be watchful for big releases, the more changes the greater the change
+Be watchful for big releases, the more changes the greater the chance
 something is broken. As with software development itself: don't do anything
 more then what is needed to get the job done.
 
