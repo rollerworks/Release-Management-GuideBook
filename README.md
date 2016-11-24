@@ -52,22 +52,22 @@ A broken release includes (but is not limited to):
   (eg. bumped platform requirements before major release).
 * Security bug introduced (by locked dependency).
 
-### Versioning suffix
+### Versioning prefix
 
-All (full) version numbers must always be suffixed with `v` (in lowercase).
+All (full) version numbers must always be prefixed with `v` (in lowercase).
 Eg. `v1.0.0-BETA1`, `v1.0.0`.
 
-There is some discussion about using, or omitting the `v` suffix.
-For all clarity this sections was included.
+There is some discussion about using, or omitting the `v` prefix.
+For all clarity this section was included.
 
-The maintainers of the Git project recommend to always suffix version numbers
+The maintainers of the Git project recommend to always prefix version numbers
 with `v` (for Git tags) to make it explicit it's a version number.
 And to prevent confusion with branch-names.
 
-Some developers however advise to omit the suffix, as it's redundant,
+Some developers however advise to omit the prefix, as it's redundant,
 but this number of users is decreasing.
 
-So for all feature releases, the version number must be suffix with
+So for all feature releases, the version number must be prefixed with
 a lowercase `v`.
 
 ## Upgrade format
